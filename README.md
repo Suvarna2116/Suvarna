@@ -14,3 +14,5 @@
 ***both bold and italic type font styles***
 
 [google](www.google.com)
+
+![BTS](https://api.time.com/wp-content/uploads/2020/11/GettyImages-1207834649.jpg)
