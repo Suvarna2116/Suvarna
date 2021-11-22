@@ -12,3 +12,5 @@
 **bold type of font style**
 
 ***both bold and italic type font styles***
+
+[google](www.google.com)
